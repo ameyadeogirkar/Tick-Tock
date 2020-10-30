@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+I cannot understand why 
+a clock is named "TICK TOCK"
